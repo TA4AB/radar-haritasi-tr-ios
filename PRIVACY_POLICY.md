@@ -7,8 +7,7 @@ Bu politika, **Radar Haritası TR** iOS uygulamasının (paket adı:
 
 **Uygulama:** Radar Haritası TR
 **Geliştirici iletişim:** [info@arsesoft.com](mailto:info@arsesoft.com) ·
-[github.com/TA4AB/radar-haritasi-tr](https://github.com/TA4AB/radar-haritasi-tr)
-**Politika adresi:** `https://github.com/TA4AB/radar-haritasi-tr/blob/main/PRIVACY_POLICY.md`
+
 
 ---
 
